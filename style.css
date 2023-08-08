@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&display=swap');
+
 body{
-    background: linear-gradient(90deg, blue,yellow);
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.comentario{
+    color:white
+}
+button{
+    font-family: 'Chakra Petch',cursive;
+}
+h1,h2{
+    text-shadow: 2px 2px 0px red, -2px -2px rgb(5, 85, 171);
+    color: white;
 }
